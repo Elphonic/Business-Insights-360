@@ -1,7 +1,6 @@
 # Business Insights 360 - Power BI Project
 
-## Power BI Dashboard Link
-Click here to view the dashboard
+**Power BI Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiY2M0OTRiZjItZjUyYS00NGVmLTg2YmYtNDU0MTY1OGNhMjhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem Statement
 
