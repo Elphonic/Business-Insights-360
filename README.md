@@ -68,11 +68,3 @@ To address these challenges, I built a comprehensive Power BI dashboard as part 
 - **Excel** – Initial data source
 
 ---
-
-## How to Use This Project
-
-1. Download the Power BI file (.pbix) from this repository.
-2. Open the file in Power BI Desktop.
-3. Explore different dashboards and insights.
-
----
