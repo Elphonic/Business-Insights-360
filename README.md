@@ -1,5 +1,8 @@
 # Business Insights 360 - Power BI Project
 
+## Power BI Dashboard Link
+Click here to view the dashboard
+
 ## Problem Statement
 
 AtliQ Hardware, a fast-growing consumer electronics company, operates across multiple countries. Despite its rapid expansion, the company relied heavily on Excel for analytics, which made data consumption inefficient and slowed down decision-making. This lack of actionable insights even led to a major financial loss in Latin America.
