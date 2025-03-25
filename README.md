@@ -52,9 +52,9 @@ To address these challenges, I built a comprehensive Power BI dashboard as part 
 
 ## Project Impact
 
-📌 **Transformed** static spreadsheets into real-time, data-driven insights.\
-📌 **Enhanced decision-making** for finance, sales, and supply chain teams.\
-📌 **Improved efficiency** by shifting from manual reporting to automated dashboards.
+**Transformed** static spreadsheets into real-time, data-driven insights.\
+**Enhanced decision-making** for finance, sales, and supply chain teams.\
+**Improved efficiency** by shifting from manual reporting to automated dashboards.
 
 ---
 
